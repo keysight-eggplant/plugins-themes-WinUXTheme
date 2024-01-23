@@ -1,3 +1,12 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 4b5f5246a3093507e5e5b81d9fb4f8b673800b92
+# Date: 2017-07-14 15:03:45 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 7e79183fdd397cbba54a206f22520d1ecccc535c
+# Date: 2017-07-14 14:54:11 +0000
+########## End of Keysight Technologies Notice ##########
 /* WINUXTheme A native Windows theme for GNUstep
    
    Native Menu support.

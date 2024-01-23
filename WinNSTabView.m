@@ -1,3 +1,52 @@
+########## Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ##########
+# Committed by: Marcian Lytwyn
+# Commit ID: 619672327cfc058707d093b56c2719e23b336943
+# Date: 2020-08-13 16:24:07 -0400
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: f00d681c73eeab491b278d799f9ef9b492727b63
+# Date: 2020-08-05 17:05:20 -0400
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 17085d0b74dc2f817a1d876695cfdef46a9e3f5b
+# Date: 2020-08-05 13:18:35 -0400
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: ad686209462ac833d7a132bc5cd690e0c22dacd3
+# Date: 2020-08-05 13:13:01 -0400
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 424b397269a88a7726c156fd610c7cc125c84b5f
+# Date: 2020-08-04 21:16:12 -0400
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 7ac3c2d532d05daf74f40f75b38fc737875f4ef8
+# Date: 2020-08-04 16:56:12 -0400
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 94c65546c19139937a74db1e2fae89fe2057177c
+# Date: 2018-01-29 17:19:26 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 99a436bab54beeeda1b700c7a58d94cd150ff7be
+# Date: 2018-01-17 21:45:14 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 8a938e519172b8591ffd13a41487d7085f8c1314
+# Date: 2018-01-12 23:32:00 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 0a508c6e7ce2fdc550722c8e4d78ef89a3d29275
+# Date: 2018-01-12 20:16:21 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 490111eb65dfabab1106d9916e06318551d657b0
+# Date: 2018-01-10 18:32:12 +0000
+--------------------
+# Committed by: Marcian Lytwyn
+# Commit ID: 8cced49013666d4bd9bc83110daf7c65c1edefab
+# Date: 2018-01-10 18:31:28 +0000
+########## End of Keysight Technologies Notice ##########
 //
 //  WinNSTabView.m
 //  WinUXTheme
