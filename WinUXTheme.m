@@ -1,3 +1,8 @@
+// ========== Keysight Technologies Added Changes To Satisfy LGPL 2.x Section 2(a) Requirements ========== 
+// Committed by: Marcian Lytwyn 
+// Commit ID: 619672327cfc058707d093b56c2719e23b336943 
+// Date: 2020-08-13 16:24:07 -0400 
+// ========== End of Keysight Technologies Notice ========== 
 /* WINUXTheme A native Windows XP theme for GNUstep
 
    Copyright (C) 2009-2014 Free Software Foundation, Inc.
